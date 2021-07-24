@@ -6,7 +6,6 @@ click==7.1.2
 cryptography==3.4.7
 cycler==0.10.0	
 flask==1.1.2
-freetype==2.10.4	
 icc_rt==2019.0.0	
 icu==58.2	
 idna==2.10	
