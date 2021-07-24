@@ -1,4 +1,4 @@
-blas==1.0
+
 brotlipy==0.7.0
 ca-certificates==2021.7.5	
 certifi==2021.5.30	
