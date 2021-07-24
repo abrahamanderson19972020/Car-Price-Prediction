@@ -22,7 +22,7 @@ pycparser==2.20
 pyopenssl==20.0.1	
 pyparsing==2.4.7	
 pysocks==1.7.1	
-python==3.8.10	
+python==3.8.2	
 python-dateutil==2.8.2	
 pytz==2021.1	
 qt==5.9.7	
